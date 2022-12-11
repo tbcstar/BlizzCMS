@@ -115,7 +115,6 @@ $lang['login_page'] = '登录页面';
 $lang['register_page'] = '注册页面';
 $lang['forgot_password_page'] = '忘记密码页面';
 $lang['mailer_on_sections'] = '部门邮箱';
-$lang['account_confirmation'] = '账户确认';
 $lang['general_settings_list'] = '与 CMS 相关的设置列表。';
 $lang['social_settings_list'] = '与社交网络相关的设置列表。';
 $lang['pages_settings_list'] = '与主页状态相关的设置列表。';

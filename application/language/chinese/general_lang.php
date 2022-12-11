@@ -21,6 +21,7 @@ $lang['validate_your_registration'] = '验证您的注册';
 $lang['dont_have_account'] = "还没有帐户？ 立即注册";
 $lang['already_have_account'] = '你是不是已经有一个账号？ 立即登录';
 $lang['fill_form_password_reset'] = '填写表格以重置您的密码';
+$lang['account_confirmation'] = '账户确认';
 $lang['here'] = '这里';
 $lang['submit'] = '提交';
 $lang['change'] = '修改';
