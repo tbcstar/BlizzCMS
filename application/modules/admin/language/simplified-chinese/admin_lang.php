@@ -22,6 +22,7 @@ $lang['discussion'] = '详述';
 $lang['mailer'] = '发件人';
 $lang['seo'] = 'SEO';
 $lang['support'] = '技术支持';
+$lang['docs'] = '文档';
 $lang['banned_ips'] = '禁止的IP';
 $lang['banned_emails'] = '禁止的邮箱';
 $lang['banned_users'] = '禁止的用户';
