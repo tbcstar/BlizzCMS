@@ -11,7 +11,7 @@ $lang['update_account_password'] = '单击此处更新您的帐户密码。';
 $lang['update_account_email'] = '单击此处更新您的邮箱地址。';
 
 $lang['welcome_back'] = '欢迎回来，';
-$lang['welcome_back_note'] = '在这里，您将看到有关您帐户状态和活动的最相关信息。 要更改您的帐户设置，请访问';
+$lang['welcome_back_note'] = '在这里，您将看到与您的帐户状态和活动最相关的信息。要更改您的帐户设置，请转到';
 
 /**
  * Alerts

@@ -36,9 +36,6 @@ $lang['mail'] = 'Mail';
 $lang['sendmail'] = 'Sendmail';
 $lang['smtp'] = 'SMTP';
 
-$lang['select_theme'] = 'Seleccionar un tema';
-$lang['select_size'] = 'Seleccionar un tamaño';
-
 $lang['add_ban'] = 'Agregar suspensión';
 $lang['delete_ban'] = 'Eliminar suspensión';
 $lang['view_ban'] = 'Ver suspensión';
@@ -57,15 +54,10 @@ $lang['edit_realm'] = 'Editar reino';
 $lang['add_slide'] = 'Agregar diapositiva';
 $lang['edit_slide'] = 'Editar diapositiva';
 
-$lang['theme'] = 'Tema';
-$lang['themes'] = 'Temas';
-$lang['facebook'] = 'Facebook';
-$lang['twitter'] = 'Twitter';
-$lang['youtube'] = 'Youtube';
 $lang['secret_password'] = 'Contraseña secreta';
 $lang['sender'] = 'Remitente';
-$lang['site_key'] = 'Llave del sitio';
-$lang['secret_key'] = 'Llave secreta';
+$lang['site_key'] = 'Clave de sitio';
+$lang['secret_key'] = 'Clave secreta';
 $lang['clear'] = 'Vaciar';
 $lang['check_soap'] = 'Comprobar SOAP';
 $lang['log'] = 'Registro';
@@ -103,7 +95,7 @@ $lang['active_bans'] = 'Suspensiones activas';
 $lang['articles_added'] = 'Artículos agregados';
 $lang['pages_added'] = 'Páginas agregadas';
 
-$lang['menu_builder'] = 'Menu builder';
+$lang['menu_builder'] = 'Constructor de menú';
 $lang['optional'] = 'Opcional';
 $lang['characters_database'] = 'Base de datos de personajes';
 $lang['soap_configuration'] = 'Configuración SOAP';
@@ -150,16 +142,20 @@ $lang['wowcms_articles_empty'] = 'No se pudieron encontrar las noticias más rec
 $lang['wowcms_versions_empty'] = 'Las versiones no se pudieron encontrar';
 $lang['permanent_ban_note'] = 'El acceso estará totalmente restringido y no permitirá iniciar sesión.';
 $lang['temporary_ban_note'] = 'El acceso estará limitado únicamente por los permisos del rol banned.';
+$lang['role_can_view_page'] = 'El rol <strong>%1$s</strong> puede ver la página';
+$lang['role_can_view_item'] = 'El rol <strong>%1$s</strong> puede ver el elemento';
 
 $lang['enter_site_name'] = 'Ingrese un nombre para el sitio.';
 $lang['enter_realmlist'] = 'Ingrese un realmlist.';
 $lang['enter_expansion'] = 'Ingrese una expansión.';
 $lang['enter_emulator'] = 'Ingrese un emulador.';
 $lang['enter_bnet_authentication'] = 'Ingrese un estado de la autenticación bnet.';
-$lang['enter_discord_id'] = 'Ingrese un id del servidor de discord.';
-$lang['enter_facebook_group'] = 'Ingrese un nombre de grupo de facebook.';
-$lang['enter_twitter_user'] = 'Ingrese un nombre de usuario de twitter.';
-$lang['enter_youtube_channel'] = 'Ingrese un nombre de canal de youtube.';
+$lang['enter_discord_id'] = 'Ingrese el id del servidor de Discord.';
+$lang['enter_facebook_group'] = 'Ingrese un id/nombre de grupo de Facebook.';
+$lang['enter_reddit_community'] = 'Ingrese un nombre de comunidad de Reddit.';
+$lang['enter_twitch_channel'] = 'Ingrese un nombre de canal de Twitch.';
+$lang['enter_x_handle'] = 'Ingrese un identificador de X.';
+$lang['enter_youtube_handle'] = 'Ingrese un identificador de YouTube.';
 $lang['status_register_page'] = 'Habilitar la página de registro.';
 $lang['status_forgot_page'] = 'Habilitar la página de contraseña olvidada.';
 
@@ -200,8 +196,8 @@ $lang['enter_email'] = 'Ingrese un correo electrónico.';
 $lang['enter_type'] = 'Ingrese un tipo.';
 $lang['enter_size'] = 'Ingrese un tamaño.';
 $lang['enter_theme'] = 'Ingrese un tema.';
-$lang['enter_site_key'] = 'Ingrese una llave del sitio.';
-$lang['enter_secret_key'] = 'Ingrese una llave secreta.';
+$lang['enter_site_key'] = 'Ingrese una clave de sitio.';
+$lang['enter_secret_key'] = 'Ingrese una clave secreta.';
 
 $lang['current_account_username'] = 'Nombre de usuario de la cuenta actual.';
 $lang['current_account_nickname'] = 'Apodo de la cuenta actual.';

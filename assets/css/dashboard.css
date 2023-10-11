@@ -28,7 +28,8 @@ html {
   color: #6f7079;
 }
 
-img {
+img,
+svg {
   user-select: none;
 }
 
@@ -487,6 +488,7 @@ pre {
   border-top: 3px solid #3874d0;
   color: #0e1b3e;
   font-size: 1rem;
+  font-weight: 600;
   padding: 10px 15px;
 }
 
@@ -822,8 +824,7 @@ pre {
   color: #fff;
   font-size: .9375rem;
   font-weight: 600;
-  min-width: 14px;
-  text-align: center;
+  min-height: 23px;
   transition: all ease-in-out .2s;
   user-select: none;
 }

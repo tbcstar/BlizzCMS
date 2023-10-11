@@ -1,7 +1,7 @@
 # _BlizzCMS_
 
-[![Version](https://img.shields.io/github/v/release/wow-cms/blizzcms?color=green&include_prereleases&logo=github&sort=semver&style=flat-square)](https://github.com/WoW-CMS/BlizzCMS/releases)
-[![License](https://img.shields.io/github/license/wow-cms/blizzcms?color=blue&style=flat-square)](../LICENSE)
+[![Version](https://img.shields.io/github/v/release/WoW-CMS/BlizzCMS?filter=v2.*&style=flat-square&logo=github&color=green)](https://github.com/WoW-CMS/BlizzCMS/releases)
+[![License](https://img.shields.io/github/license/WoW-CMS/BlizzCMS?style=flat-square&color=blue)](../LICENSE)
 
 ## About BlizzCMS
 
@@ -14,10 +14,12 @@ BlizzCMS is a free, easy-to-use, open-source CMS developed for private World of 
 
 ## Requirements
 
-1. **PHP version** >= 7.4 with the following extensions installed:
-   - bcmath - curl - gd - gmp - mbstring - mysqli - openssl - soap - zip
-2. **DB Server** MySQL 5.7+ or MariaDB 10.6+
-3. **Composer**
+1. **Web Server**
+   - Enable modules: mod_headers - mod_rewrite
+2. **PHP** 7.4 or newer recommended
+   - Enable extensions: bcmath - curl - gd - gmp - intl - mbstring - mysqli - openssl - soap - zip
+3. **DB Server** MySQL 5.7+ or MariaDB 10.6+
+4. **Composer**
 
 ## Links
 

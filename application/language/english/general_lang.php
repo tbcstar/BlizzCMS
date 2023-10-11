@@ -10,7 +10,6 @@ $lang['user_panel'] = '用户面板';
 $lang['admin_panel'] = '管理面板';
 $lang['dashboard'] = '仪表盘';
 $lang['powered_by'] = '技术支持';
-
 $lang['register'] = '注册';
 $lang['login'] = '登录';
 $lang['logout'] = '注销';
@@ -58,7 +57,7 @@ $lang['views'] = '浏览';
 $lang['current'] = '当前';
 $lang['migrate'] = '迁移';
 $lang['username'] = '用户名';
-$lang['email'] = '邮箱地址';
+$lang['email'] = '邮箱';
 $lang['email_or_username'] = '邮箱/用户名';
 $lang['password'] = '密码';
 $lang['confirm_password'] = '确认密码';
@@ -79,7 +78,7 @@ $lang['summary'] = '摘要';
 $lang['content'] = '内容';
 $lang['description'] = '描述';
 $lang['url'] = 'URL';
-$lang['slug'] = 'Slug';
+$lang['slug'] = 'URL段';
 $lang['highlight'] = '高亮';
 $lang['lock'] = '锁定';
 $lang['unlock'] = '解锁';
@@ -211,6 +210,8 @@ $lang['endless'] = '无限';
 $lang['visible'] = '可见';
 $lang['hidden'] = '隐藏';
 $lang['terms'] = '条款';
+$lang['theme'] = '主题';
+$lang['themes'] = '主题';
 
 $lang['offline'] = '离线';
 $lang['online'] = '在线';
@@ -242,17 +243,23 @@ $lang['rights_reserved'] = '保留所有权利。';
 
 $lang['comment'] = '评论';
 $lang['comments'] = '评论';
-$lang['commented_on'] = '评论了';
 $lang['latest_comments'] = '最新评论';
 $lang['add_comment'] = '添加评论';
 $lang['edit_comment'] = '编辑评论';
 $lang['latest_news'] = '最新新闻';
 $lang['realm_status'] = '服务器状态';
-$lang['social_networks'] = '社交网络 ';
-$lang['registered_in'] = '注册于';
+$lang['social_networks'] = '社交网络';
+$lang['published_on'] = '发布于';
+$lang['written_on'] = '写于';
+$lang['registered_on'] = '注册于';
 $lang['donation_points'] = '捐赠点数';
 $lang['voting_points'] = '投票积分';
-$lang['discord'] = 'DoDo聊天';
+$lang['facebook'] = 'Facebook';
+$lang['discord'] = 'Discord';
+$lang['reddit'] = 'Reddit';
+$lang['twitch'] = 'Twitch';
+$lang['x_twitter'] = 'X (Twitter)';
+$lang['youtube'] = 'YouTube';
 $lang['cart_have_products'] = '您的购物车中有<strong>%1$d</strong>件商品';
 $lang['cart_is_empty'] = '购物车是空的';
 
@@ -270,7 +277,7 @@ $lang['select_type'] = '选择一种类型';
 $lang['select_priority'] = '选择一个优先级';
 $lang['select_severity'] = '选择一个严重性';
 $lang['select_category'] = '选择一个分类';
-$lang['select_tag'] = '选择标签';
+$lang['select_tag'] = '选择一个标签';
 $lang['select_realm'] = '选择一个服务器';
 $lang['select_character'] = '选择一个角色';
 $lang['select_item'] = '选择一个物品';
@@ -284,11 +291,19 @@ $lang['select_encryption'] = '选择一种加密';
 $lang['select_protocol'] = '选择一种协议';
 $lang['select_option'] = '选择一个选项';
 $lang['select_currency'] = '选择一种货币';
+$lang['select_theme'] = '选择一个主题';
+$lang['select_size'] = '选择一个尺寸';
 
 $lang['all_types'] = '所有类型';
 $lang['all_realms'] = '所有服务器';
 $lang['all_characters'] = '所有角色';
 $lang['all_categories'] = '所有分类';
+
+/**
+ * DateTime
+*/
+$lang['datetime_pattern'] = "MMMM d, y";
+$lang['datetime_full_pattern'] = "MMMM d, y 'at' h:mm a";
 
 /**
  * Alerts
