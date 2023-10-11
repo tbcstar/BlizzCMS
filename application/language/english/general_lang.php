@@ -10,6 +10,7 @@ $lang['user_panel'] = '用户面板';
 $lang['admin_panel'] = '管理面板';
 $lang['dashboard'] = '仪表盘';
 $lang['powered_by'] = '技术支持';
+
 $lang['register'] = '注册';
 $lang['login'] = '登录';
 $lang['logout'] = '注销';
